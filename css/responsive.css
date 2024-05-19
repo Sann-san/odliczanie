@@ -1,0 +1,11 @@
+@media screen and (max width:992px) {
+    #zad {
+        width: 100%;
+    }
+}
+
+@media screen and (max width:768px) {
+    #zad {
+        width: 100%;
+    }
+}
